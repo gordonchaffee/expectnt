@@ -1,4 +1,3 @@
 expectnt
 ========
-
-Play
+Play around with GitHub
